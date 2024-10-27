@@ -1,7 +1,7 @@
 # gradescope-dark-mode
 dark mode userstyle for Gradescope, designed to be used with [Gradescope Dark Code](https://uso.kkx.one/style/139302)
 
-![screenshot](https://raw.githubusercontent.com/sayofthelor/gradescope-dark-mode/master/screenshot.png)
+![screenshot](https://github.com/sayofthelor/gradescope-dark-mode/blob/master/screenshot.png?raw=true)
 
 i probably missed some stuff, if so, please leave an issue
 
